@@ -1,0 +1,11 @@
+inherit python-wheel
+
+NAME="python-alabaster"
+VERSION=0.7.10
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Sphinx sidebar-enabled theme"
+DESCRIPTION="Alabaster is a visually (c)lean, responsive, configurable theme
+for the Sphinx documentation system."
+
+ARCH=noarch
